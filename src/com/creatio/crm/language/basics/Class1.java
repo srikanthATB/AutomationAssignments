@@ -11,6 +11,7 @@ public class Class1 {
 	public void printAddress() {
 		System.out.println("Jabalpur");
 		System.out.println("MP");
+		System.out.println("TS");
 	}
 
 }
